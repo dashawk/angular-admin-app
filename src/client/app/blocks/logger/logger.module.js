@@ -1,5 +1,5 @@
-(function() {
-  'use strict';
-
-  angular.module('blocks.logger', []);
+(function () {
+	'use strict';
+	
+	angular.module('blocks.logger', []);
 })();
